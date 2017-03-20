@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-#Carlos Algusto Neto / Weslei Luiz de Paula Pinto
+#Carlos Algusto Neto (https://github.com/augustoliks) / Weslei Luiz de Paula Pinto
 
 global posição
 posição = 0
